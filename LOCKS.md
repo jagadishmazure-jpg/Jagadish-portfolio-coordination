@@ -4,6 +4,7 @@ One writer per portfolio repo at a time. Claim by committing a row here **before
 
 | repo | holder | claimed_at (ET) | purpose |
 | --- | --- | --- | --- |
+| Jagadish-agentic-security-layer | external-assistant | 2026-10-18 09:25 ET | security-batch build push |
 | Jagadish-unified-retrieval-router | grokbot-portfolio | 2026-10-18 09:15 ET | merge approved Dependabot Actions PR |
 | Jagadish-confidence-calibrated-autonomy | grokbot-portfolio | 2026-10-18 09:15 ET | merge approved Dependabot Actions PR |
 | Jagadish-agent-output-delivery | grokbot-portfolio | 2026-10-18 09:15 ET | merge approved Dependabot Actions PR |
