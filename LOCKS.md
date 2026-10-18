@@ -4,6 +4,8 @@ One writer per portfolio repo at a time. Claim by committing a row here **before
 
 | repo | holder | claimed_at (ET) | purpose |
 | --- | --- | --- | --- |
+| Jagadish-agent-eval-studio | grokbot-portfolio | 2026-10-18 16:11 ET | portfolio standard (CI, security, docs, metric and approval review) |
+| jagadishmazure-jpg | grokbot-portfolio | 2026-10-18 16:11 ET | profile totals after agent-eval-studio |
 
 ## Holders
 
