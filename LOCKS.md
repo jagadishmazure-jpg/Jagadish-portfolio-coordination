@@ -4,6 +4,9 @@ One writer per portfolio repo at a time. Claim by committing a row here **before
 
 | repo | holder | claimed_at (ET) | purpose |
 | --- | --- | --- | --- |
+| Jagadish-marketplace-seller-agents | external-assistant | 2026-10-18 06:26 ET | batch-3 build push |
+| Jagadish-pharma-qa-agents | external-assistant | 2026-10-18 06:26 ET | batch-3 build push |
+| Jagadish-predictive-maintenance-agents | external-assistant | 2026-10-18 06:26 ET | batch-3 build push |
 
 ## Holders
 
