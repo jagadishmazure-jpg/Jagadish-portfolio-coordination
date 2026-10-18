@@ -4,13 +4,9 @@ One writer per portfolio repo at a time. Claim by committing a row here **before
 
 | repo | holder | claimed_at (ET) | purpose |
 | --- | --- | --- | --- |
-| Jagadish-unified-retrieval-router | grokbot-portfolio | 2026-10-18 09:15 ET | merge approved Dependabot Actions PR |
-| Jagadish-confidence-calibrated-autonomy | grokbot-portfolio | 2026-10-18 09:15 ET | merge approved Dependabot Actions PR |
-| Jagadish-agent-output-delivery | grokbot-portfolio | 2026-10-18 09:15 ET | merge approved Dependabot Actions PR |
-| Jagadish-media-ops-agents | grokbot-portfolio | 2026-10-18 09:15 ET | merge approved Dependabot Actions PR |
-| Jagadish-pharma-qa-agents | grokbot-portfolio | 2026-10-18 09:15 ET | merge approved Dependabot Actions PR |
-| Jagadish-predictive-maintenance-agents | grokbot-portfolio | 2026-10-18 09:15 ET | merge approved Dependabot Actions PR |
-| Jagadish-marketplace-seller-agents | grokbot-portfolio | 2026-10-18 09:15 ET | merge approved Dependabot Actions PR |
+| Jagadish-machine-identity-security | grokbot-portfolio | 2026-10-18 09:21 ET | standardize security batch (CI, security, review fixes) |
+| Jagadish-agentic-security-layer | grokbot-portfolio | 2026-10-18 09:21 ET | standardize security batch (CI, security, review fixes) |
+| jagadishmazure-jpg | grokbot-portfolio | 2026-10-18 09:21 ET | profile totals after security batch |
 
 ## Holders
 
