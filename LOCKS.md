@@ -4,8 +4,13 @@ One writer per portfolio repo at a time. Claim by committing a row here **before
 
 | repo | holder | claimed_at (ET) | purpose |
 | --- | --- | --- | --- |
-| Jagadish-food-ingredients-agentic-ai | grokbot-portfolio | 2026-10-18 00:52 ET | Dependabot csv-parse alert, test-count reconcile, Dependabot PR triage |
-| jagadishmazure-jpg | grokbot-portfolio | 2026-10-18 00:52 ET | profile README count update |
+| Jagadish-healthcare-ops-agents | grokbot-portfolio | 2026-10-18 01:20 ET | standardize batch 1/2 (CI, security, review fixes) |
+| Jagadish-insurance-underwriting-agents | grokbot-portfolio | 2026-10-18 01:20 ET | standardize batch 1/2 (CI, security, review fixes) |
+| Jagadish-warehouse-ops-agents | grokbot-portfolio | 2026-10-18 01:20 ET | standardize batch 1/2 (CI, security, review fixes) |
+| Jagadish-energy-grid-agents | grokbot-portfolio | 2026-10-18 01:20 ET | standardize batch 1/2 (CI, security, review fixes) |
+| Jagadish-telecom-incident-agents | grokbot-portfolio | 2026-10-18 01:20 ET | standardize batch 1/2 (CI, security, review fixes) |
+| Jagadish-airline-disruption-agents | grokbot-portfolio | 2026-10-18 01:20 ET | standardize batch 1/2 (CI, security, review fixes) |
+| jagadishmazure-jpg | grokbot-portfolio | 2026-10-18 01:20 ET | profile README rows + totals |
 
 ## Holders
 
