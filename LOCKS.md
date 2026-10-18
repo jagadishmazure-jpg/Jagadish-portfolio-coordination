@@ -6,9 +6,6 @@ One writer per portfolio repo at a time. Claim by committing a row here **before
 | --- | --- | --- | --- |
 | Jagadish-food-ingredients-agentic-ai | grokbot-portfolio | 2026-10-18 00:52 ET | Dependabot csv-parse alert, test-count reconcile, Dependabot PR triage |
 | jagadishmazure-jpg | grokbot-portfolio | 2026-10-18 00:52 ET | profile README count update |
-| Jagadish-warehouse-ops-agents | external-assistant | 2026-10-18 00:57 ET | batch-1 build push |
-| Jagadish-healthcare-ops-agents | external-assistant | 2026-10-18 00:57 ET | batch-1 build push |
-| Jagadish-insurance-underwriting-agents | external-assistant | 2026-10-18 00:57 ET | batch-1 build push |
 
 ## Holders
 
