@@ -4,6 +4,7 @@ One writer per portfolio repo at a time. Claim by committing a row here **before
 
 | repo | holder | claimed_at (ET) | purpose |
 | --- | --- | --- | --- |
+| Jagadish-media-ops-agents | external-assistant | 2026-10-18 08:35 ET | ebook-batch build push |
 | Jagadish-agent-output-delivery | external-assistant | 2026-10-18 08:32 ET | ebook-batch build push |
 | Jagadish-confidence-calibrated-autonomy | external-assistant | 2026-10-18 08:30 ET | ebook-batch build push |
 
