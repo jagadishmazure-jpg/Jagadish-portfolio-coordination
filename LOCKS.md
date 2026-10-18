@@ -1,1 +1,14 @@
-IyBBY3RpdmUgbG9ja3MKCk9uZSB3cml0ZXIgcGVyIHBvcnRmb2xpbyByZXBvIGF0IGEgdGltZS4gQ2xhaW0gYnkgY29tbWl0dGluZyBhIHJvdyBoZXJlICoqYmVmb3JlKiogcHVzaGluZyB0byB0aGF0IHJlcG8uIFJlbGVhc2UgYnkgcmVtb3ZpbmcgdGhlIHJvdyB3aGVuIGRvbmUuCgp8IHJlcG8gfCBob2xkZXIgfCBjbGFpbWVkX2F0IChFVCkgfCBwdXJwb3NlIHwKfCAtLS0gfCAtLS0gfCAtLS0gfCAtLS0gfAoKIyMgSG9sZGVycwoKfCBob2xkZXIgaWQgfCB3aG8gfAp8IC0tLSB8IC0tLSB8CnwgYGdyb2tib3QtcG9ydGZvbGlvYCB8IFBvcnRmb2xpbyAvIEdpdEh1YiBmaXhpbmcgYXNzaXN0YW50ICh0aGlzIHNpZGUpIHwKfCBgZXh0ZXJuYWwtYXNzaXN0YW50YCB8IEphZ2FkaXNoJ3Mgb3RoZXIgYXNzaXN0YW50IChidWlsZHMgYW5kIGJldHRlcm1lbnQgYmF0Y2hlcykgfAp8IGBqYWdhZGlzaGAgfCBKYWdhZGlzaCBNZWR1cmkgKHRoZSBvd25lcikgfAo=
+# Active locks
+
+One writer per portfolio repo at a time. Claim by committing a row here **before** pushing to that repo. Release by removing the row when done.
+
+| repo | holder | claimed_at (ET) | purpose |
+| --- | --- | --- | --- |
+
+## Holders
+
+| holder id | who |
+| --- | --- |
+| `grokbot-portfolio` | Portfolio / GitHub fixing assistant (this side) |
+| `external-assistant` | Jagadish's other assistant (builds and betterment batches) |
+| `jagadish` | Jagadish Meduri (the owner) |
