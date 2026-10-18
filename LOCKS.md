@@ -1,15 +1,1 @@
-# Active locks
-
-One writer per portfolio repo at a time. Claim by committing a row here **before** pushing to that repo. Release by removing the row when done.
-
-| repo | holder | claimed_at (ET) | purpose |
-| --- | --- | --- | --- |
-| Jagadish-agent-output-delivery | `external-assistant` | 2026-10-18 10:29 EDT | re-apply five-area assessment betterment on post-rewrite code |
-
-## Holders
-
-| holder id | who |
-| --- | --- |
-| `grokbot-portfolio` | Portfolio / GitHub fixing assistant (this side) |
-| `external-assistant` | Jagadish's other assistant (builds and betterment batches) |
-| `jagadish` | Jagadish Meduri (the owner) |
+IyBBY3RpdmUgbG9ja3MKCk9uZSB3cml0ZXIgcGVyIHBvcnRmb2xpbyByZXBvIGF0IGEgdGltZS4gQ2xhaW0gYnkgY29tbWl0dGluZyBhIHJvdyBoZXJlICoqYmVmb3JlKiogcHVzaGluZyB0byB0aGF0IHJlcG8uIFJlbGVhc2UgYnkgcmVtb3ZpbmcgdGhlIHJvdyB3aGVuIGRvbmUuCgp8IHJlcG8gfCBob2xkZXIgfCBjbGFpbWVkX2F0IChFVCkgfCBwdXJwb3NlIHwKfCAtLS0gfCAtLS0gfCAtLS0gfCAtLS0gfAp8IEphZ2FkaXNoLWV2ZW50LWRyaXZlbi1hZ2VudHMgfCBgZXh0ZXJuYWwtYXNzaXN0YW50YCB8IDIwMjYtMTAtMTggMTA6MzEgRURUIHwgcmVtb3ZlIFNvbGFjZSB3aGl0ZXBhcGVyIGNpdGF0aW9ucyBmcm9tIGtub3dsZWRnZSBkb2NzIHwKfCBKYWdhZGlzaC1hZ2VudC1vdXRwdXQtZGVsaXZlcnkgfCBgZXh0ZXJuYWwtYXNzaXN0YW50YCB8IDIwMjYtMTAtMTggMTA6MjkgRURUIHwgcmUtYXBwbHkgZml2ZS1hcmVhIGFzc2Vzc21lbnQgYmV0dGVybWVudCBvbiBwb3N0LXJld3JpdGUgY29kZSB8CgojIyBIb2xkZXJzCgp8IGhvbGRlciBpZCB8IHdobyB8CnwgLS0tIHwgLS0tIHwKfCBgZ3Jva2JvdC1wb3J0Zm9saW9gIHwgUG9ydGZvbGlvIC8gR2l0SHViIGZpeGluZyBhc3Npc3RhbnQgKHRoaXMgc2lkZSkgfAp8IGBleHRlcm5hbC1hc3Npc3RhbnRgIHwgSmFnYWRpc2gncyBvdGhlciBhc3Npc3RhbnQgKGJ1aWxkcyBhbmQgYmV0dGVybWVudCBiYXRjaGVzKSB8CnwgYGphZ2FkaXNoYCB8IEphZ2FkaXNoIE1lZHVyaSAodGhlIG93bmVyKSB8Cg==
