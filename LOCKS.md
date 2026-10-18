@@ -4,11 +4,12 @@ One writer per portfolio repo at a time. Claim by committing a row here **before
 
 | repo | holder | claimed_at (ET) | purpose |
 | --- | --- | --- | --- |
+| Jagadish-agent-eval-studio | external-assistant | 2026-10-18 14:42 | initial push of new repo scaffold |
 
 ## Holders
 
 | holder id | who |
 | --- | --- |
 | `grokbot-portfolio` | Portfolio / GitHub fixing assistant (this side) |
-| `external-assistant` | Jagadish's other assistant (builds and betterment batches) |
+| `external-assistant` | Jagadishs other assistant (builds and betterment batches) |
 | `jagadish` | Jagadish Meduri (the owner) |
