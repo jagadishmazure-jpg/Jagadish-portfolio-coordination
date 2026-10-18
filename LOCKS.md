@@ -4,6 +4,9 @@ One writer per portfolio repo at a time. Claim by committing a row here **before
 
 | repo | holder | claimed_at (ET) | purpose |
 | --- | --- | --- | --- |
+| Jagadish-coldchain-logistics-agents | grokbot-portfolio | 2026-10-18 07:30 ET | gateway authorizer backstop + PII fixes (approved) |
+| Jagadish-retail-ops-agents | grokbot-portfolio | 2026-10-18 07:30 ET | gateway authorizer backstop + PII fixes (approved) |
+| jagadishmazure-jpg | grokbot-portfolio | 2026-10-18 07:30 ET | gateway authorizer backstop + PII fixes (approved) |
 | Jagadish-marketplace-seller-agents | external-assistant | 2026-10-18 06:26 ET | batch-3 build push |
 | Jagadish-pharma-qa-agents | external-assistant | 2026-10-18 06:26 ET | batch-3 build push |
 | Jagadish-predictive-maintenance-agents | external-assistant | 2026-10-18 06:26 ET | batch-3 build push |
