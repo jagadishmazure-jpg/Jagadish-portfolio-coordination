@@ -4,6 +4,7 @@ One writer per portfolio repo at a time. Claim by committing a row here **before
 
 | repo | holder | claimed_at (ET) | purpose |
 | --- | --- | --- | --- |
+| Jagadish-agent-reliability-lab | external-assistant | 2026-10-22 07:44 | initial push of new repo scaffold |
 
 ## Holders
 
