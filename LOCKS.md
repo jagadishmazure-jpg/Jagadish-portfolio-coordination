@@ -4,7 +4,7 @@ One writer per portfolio repo at a time. Claim by committing a row here **before
 
 | repo | holder | claimed_at (ET) | purpose |
 | --- | --- | --- | --- |
-| Jagadish-agent-memory-systems | external-assistant | 2026-10-22 08:01 | initial push of new repo scaffold |
+| Jagadish-agent-roi-framework | external-assistant | 2026-10-22 08:07 | initial push of new repo scaffold |
 
 ## Holders
 
