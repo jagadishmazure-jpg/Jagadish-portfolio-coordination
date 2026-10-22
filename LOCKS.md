@@ -4,6 +4,12 @@ One writer per portfolio repo at a time. Claim by committing a row here **before
 
 | repo | holder | claimed_at (ET) | purpose |
 | --- | --- | --- | --- |
+| Jagadish-agent-eval-studio | grokbot-portfolio | 2026-10-22 08:08 | portfolio standardization |
+| Jagadish-agent-roi-framework | grokbot-portfolio | 2026-10-22 08:08 | portfolio standardization |
+| Jagadish-agent-memory-systems | grokbot-portfolio | 2026-10-22 08:08 | portfolio standardization |
+| Jagadish-agent-reliability-lab | grokbot-portfolio | 2026-10-22 08:08 | portfolio standardization |
+| Jagadish-voice-agent-runtime | grokbot-portfolio | 2026-10-22 08:08 | portfolio standardization |
+| Jagadish-agent-trace-observability | grokbot-portfolio | 2026-10-22 08:08 | portfolio standardization |
 
 ## Holders
 
