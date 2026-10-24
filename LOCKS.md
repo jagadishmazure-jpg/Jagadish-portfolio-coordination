@@ -4,6 +4,7 @@ One writer per portfolio repo at a time. Claim by committing a row here **before
 
 | repo | holder | claimed_at (ET) | purpose |
 | --- | --- | --- | --- |
+| Jagadish-context-engineering | grokbot-portfolio | 2026-10-23 21:08 | build + publish new repo |
 | Jagadish-agent-commerce-streaming | grokbot-portfolio | 2026-10-23 21:08 | initial build + standardization |
 | Jagadish-agent-training-distill-rl | grokbot-portfolio | 2026-10-23 21:08 | initial build + standardization |
 | Jagadish-ai-system-design-at-scale | grokbot-portfolio | 2026-10-23 20:59 | initial build + standardization |
