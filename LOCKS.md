@@ -6,9 +6,6 @@ One writer per portfolio repo at a time. Claim by committing a row here **before
 | --- | --- | --- | --- |
 | Jagadish-agent-commerce-streaming | grokbot-portfolio | 2026-10-23 21:08 | initial build + standardization |
 | Jagadish-agent-training-distill-rl | grokbot-portfolio | 2026-10-23 21:08 | initial build + standardization |
-| Jagadish-llm-capacity-planning | grokbot-portfolio | 2026-10-24 11:43 | merge PRs + profile count |
-| Jagadish-ai-system-design-at-scale | grokbot-portfolio | 2026-10-24 11:43 | merge PRs + profile count |
-| jagadishmazure-jpg | grokbot-portfolio | 2026-10-24 11:43 | merge PRs + profile count |
 
 ## Holders
 
