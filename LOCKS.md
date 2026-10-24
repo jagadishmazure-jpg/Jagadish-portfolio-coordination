@@ -4,6 +4,7 @@ One writer per portfolio repo at a time. Claim by committing a row here **before
 
 | repo | holder | claimed_at (ET) | purpose |
 | --- | --- | --- | --- |
+| Jagadish-ai-system-design-at-scale | grokbot-portfolio | 2026-10-23 20:57 | initial build + standardization |
 | Jagadish-iam-lifecycle-governance | grokbot-portfolio | 2026-10-23 20:45 | initial build + standardization |
 
 ## Holders
