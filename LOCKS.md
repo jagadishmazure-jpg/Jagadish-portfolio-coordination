@@ -6,15 +6,6 @@ One writer per portfolio repo at a time. Claim by committing a row here **before
 | --- | --- | --- | --- |
 | Jagadish-agent-commerce-streaming | grokbot-portfolio | 2026-10-23 21:08 | initial build + standardization |
 | Jagadish-agent-training-distill-rl | grokbot-portfolio | 2026-10-23 21:08 | initial build + standardization |
-| Jagadish-finance-sentiment-analysis | external-assistant | 2026-10-26 08:01 | initial build push |
-| Jagadish-finance-compliance-rag | external-assistant | 2026-10-26 08:01 | initial build push |
-| Jagadish-finance-kyc-aml-pipeline | external-assistant | 2026-10-26 08:01 | initial build push |
-| Jagadish-finance-credit-memo | external-assistant | 2026-10-26 08:01 | initial build push |
-| Jagadish-finance-portfolio-risk-agent | external-assistant | 2026-10-26 08:01 | initial build push |
-| Jagadish-finance-bank-in-a-box | external-assistant | 2026-10-26 08:01 | initial build push |
-| Jagadish-finance-invoice-reimbursement | external-assistant | 2026-10-26 08:01 | initial build push |
-| Jagadish-finance-data-validation | external-assistant | 2026-10-26 08:01 | initial build push |
-| Jagadish-finance-governance-poc | external-assistant | 2026-10-26 08:01 | initial build push |
 
 ## Holders
 
