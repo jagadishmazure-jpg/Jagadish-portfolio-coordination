@@ -6,6 +6,7 @@ One writer per portfolio repo at a time. Claim by committing a row here **before
 | --- | --- | --- | --- |
 | Jagadish-agent-commerce-streaming | grokbot-portfolio | 2026-10-23 21:08 | initial build + standardization |
 | Jagadish-agent-training-distill-rl | grokbot-portfolio | 2026-10-23 21:08 | initial build + standardization |
+| Jagadish-fraud-detection-agents | external-assistant | 2026-10-26 08:26 | fraud betterment: mule rings, eval harness, triage narratives, feedback loop |
 
 ## Holders
 
