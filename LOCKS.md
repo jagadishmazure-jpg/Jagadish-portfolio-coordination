@@ -10,7 +10,7 @@ One writer per portfolio repo at a time. Claim by committing a row here **before
 ## Holders
 
 | holder id | who |
-| --- | --- | --- |
+| --- | --- |
 | `grokbot-portfolio` | Portfolio / GitHub fixing assistant (this side) |
 | `external-assistant` | Jagadishs other assistant (builds and betterment batches) |
 | `jagadish` | Jagadish Meduri (the owner) |
